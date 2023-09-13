@@ -1,0 +1,291 @@
+{
+    "categories": [
+      {
+        "name": "Gastronomía",
+        "image": "category_gastronomia_creativa.jpg",
+        "questions": [
+          {
+            "question": "¿Qué ingrediente se utiliza para hacer un soufflé subir y volverse esponjoso?",
+            "options": ["Huevo", "Leche", "Queso"],
+            "correctAnswer": "Huevo",
+            "difficulty": "fácil"
+          },
+          {
+            "question": "¿Qué especia se utiliza comúnmente para dar color amarillo al arroz en la paella?",
+            "options": ["Azafrán", "Cúrcuma", "Paprika"],
+            "correctAnswer": "Azafrán",
+            "difficulty": "fácil"
+          },
+          {
+            "question": "¿Qué postre francés es conocido por su textura crujiente y sus capas intercaladas con crema?",
+            "options": ["Mousse de chocolate", "Tiramisú", "Millefeuille"],
+            "correctAnswer": "Millefeuille",
+            "difficulty": "fácil"
+          },
+          {
+            "question": "¿Cuál es la base del famoso plato mexicano 'tacos al pastor'?",
+            "options": ["Carne de res", "Carne de cerdo", "Pollo"],
+            "correctAnswer": "Carne de cerdo",
+            "difficulty": "media"
+          },
+          {
+            "question": "¿Cuál es el ingrediente principal en la salsa pesto italiana?",
+            "options": ["Albahaca", "Tomate", "Aceite de oliva"],
+            "correctAnswer": "Albahaca",
+            "difficulty": "media"
+          },
+          {
+            "question": "¿En qué país se originó el plato 'sushi'?",
+            "options": ["China", "Japón", "Corea del Sur"],
+            "correctAnswer": "Japón",
+            "difficulty": "media"
+          },
+          {
+            "question": "¿Qué tipo de queso se utiliza tradicionalmente en la auténtica pizza italiana Margherita?",
+            "options": ["Mozzarella", "Cheddar", "Parmesano"],
+            "correctAnswer": "Mozzarella",
+            "difficulty": "difícil"
+          },
+          {
+            "question": "¿Cuál es el plato típico de la gastronomía tailandesa que combina sabores dulces, salados, amargos y picantes?",
+            "options": ["Sushi", "Pad Thai", "Kimchi"],
+            "correctAnswer": "Pad Thai",
+            "difficulty": "difícil"
+          },
+          {
+            "question": "¿Qué tipo de pasta se utiliza en el plato italiano 'lasagna'?",
+            "options": ["Fettuccine", "Spaghetti", "Láminas de pasta"],
+            "correctAnswer": "Láminas de pasta",
+            "difficulty": "difícil"
+          },
+          {
+            "question": "¿Cuál de los siguientes platos es un guiso tradicional de la cocina española?",
+            "options": ["Ratatouille", "Coq au", "Fabada asturiana"],
+            "correctAnswer": "Fabada asturiana",
+            "difficulty": "difícil"
+          }
+        ]
+      },
+      
+      {
+        "categories": [
+          {
+            "name": "Astronomía Creativa",
+            "image": "category_astronomia_creativa.jpg",
+            "questions": [
+              {
+                "question": "¿Cuál es el nombre de nuestra galaxia?",
+                "options": ["Vía Láctea", "Andrómeda", "Orion"],
+                "correctAnswer": "Vía Láctea",
+                "difficulty": "fácil"
+              },
+              {
+                "question": "¿Cuál es el planeta más cercano al Sol en nuestro sistema solar?",
+                "options": ["Venus", "Mercurio", "Marte"],
+                "correctAnswer": "Mercurio",
+                "difficulty": "fácil"
+              },
+              {
+                "question": "¿Cuál es el nombre de la estrella más brillante en el cielo nocturno?",
+                "options": ["Sirio", "Proxima Centauri", "Polaris"],
+                "correctAnswer": "Sirio",
+                "difficulty": "fácil"
+              },
+              {
+                "question": "¿Qué fenómeno se produce cuando la Luna bloquea completamente la luz solar en un eclipse?",
+                "options": ["Eclipse de Sol", "Eclipse de Luna", "Eclipse total de Sol"],
+                "correctAnswer": "Eclipse total de Sol",
+                "difficulty": "media"
+              },
+              {
+                "question": "¿Cuál es el nombre de la misión espacial de la NASA que aterrizó en Marte en 2021?",
+                "options": ["Voyager", "Curiosity", "Perseverance"],
+                "correctAnswer": "Perseverance",
+                "difficulty": "media"
+              },
+              {
+                "question": "¿Cuál es el objeto más grande del sistema solar después del Sol?",
+                "options": ["Júpiter", "Saturno", "Urano"],
+                "correctAnswer": "Júpiter",
+                "difficulty": "media"
+              },
+              {
+                "question": "¿Cuál es el nombre de la galaxia más cercana a la Vía Láctea?",
+                "options": ["Andrómeda", "Orion", "Centaurus A"],
+                "correctAnswer": "Andrómeda",
+                "difficulty": "difícil"
+              },
+              {
+                "question": "¿Cuál es el nombre de la sonda espacial que visitó Plutón en 2015?",
+                "options": ["Pioneer 10", "New Horizons", "Voyager 1"],
+                "correctAnswer": "New Horizons",
+                "difficulty": "difícil"
+              },
+              {
+                "question": "¿Cuál es el fenómeno en el que la luz se dobla al pasar cerca de un objeto masivo, como una estrella?",
+                "options": ["Efecto Doppler", "Refracción", "Lente gravitacional"],
+                "correctAnswer": "Lente gravitacional",
+                "difficulty": "difícil"
+              },
+              {
+                "question": "¿Cuál es el nombre de la misión espacial de la ESA que aterrizó en un cometa en 2014?",
+                "options": ["Rosetta", "Galileo", "Hubble"],
+                "correctAnswer": "Rosetta",
+                "difficulty": "difícil"
+              }
+            ]
+        },
+
+        {
+            "categories": [
+              {
+                "name": "Astrología Creativa",
+                "image": "category_astrologia_creativa.jpg",
+                "questions": [
+                  {
+                    "question": "¿Cuál es el signo zodiacal que se asocia con el elemento fuego?",
+                    "options": ["Aries", "Cáncer", "Libra"],
+                    "correctAnswer": "Aries",
+                    "difficulty": "fácil"
+                  },
+                  {
+                    "question": "¿Cuál es el planeta que rige el signo zodiacal Géminis?",
+                    "options": ["Mercurio", "Venus", "Marte"],
+                    "correctAnswer": "Mercurio",
+                    "difficulty": "fácil"
+                  },
+                  {
+                    "question": "¿Cuál es el signo zodiacal representado por un par de escamas?",
+                    "options": ["Libra", "Escorpio", "Tauro"],
+                    "correctAnswer": "Libra",
+                    "difficulty": "fácil"
+                  },
+                  {
+                    "question": "¿Cuál es el signo zodiacal opuesto a Aries en la rueda del zodiaco?",
+                    "options": ["Géminis", "Cáncer", "Libra"],
+                    "correctAnswer": "Libra",
+                    "difficulty": "media"
+                  },
+                  {
+                    "question": "¿Qué signo zodiacal es conocido como el 'portador del agua'?",
+                    "options": ["Cáncer", "Acuario", "Piscis"],
+                    "correctAnswer": "Acuario",
+                    "difficulty": "media"
+                  },
+                  {
+                    "question": "¿Cuál es el signo zodiacal que se asocia con el número 13 en la astrología?",
+                    "options": ["Leo", "Virgo", "Sagitario"],
+                    "correctAnswer": "Virgo",
+                    "difficulty": "media"
+                  },
+                  {
+                    "question": "¿Cuál es el planeta que rige el signo zodiacal Capricornio?",
+                    "options": ["Saturno", "Urano", "Neptuno"],
+                    "correctAnswer": "Saturno",
+                    "difficulty": "difícil"
+                  },
+                  {
+                    "question": "¿Cuál es el signo zodiacal asociado con la constelación del arquero?",
+                    "options": ["Sagitario", "Escorpio", "Piscis"],
+                    "correctAnswer": "Sagitario",
+                    "difficulty": "difícil"
+                  },
+                  {
+                    "question": "¿Cuál es el elemento zodiacal del signo Tauro?",
+                    "options": ["Tierra", "Fuego", "Aire"],
+                    "correctAnswer": "Tierra",
+                    "difficulty": "difícil"
+                  },
+                  {
+                    "question": "¿Cuál es el signo zodiacal regido por el planeta Plutón en la astrología moderna?",
+                    "options": ["Aries", "Escorpio", "Virgo"],
+                    "correctAnswer": "Escorpio",
+                    "difficulty": "difícil"
+                  }
+                ]
+              },
+
+              {
+                "categories": [
+                  {
+                    "name": "Superhéroes y Villanos Creativos",
+                    "image": "category_superheroes.jpg",
+                    "questions": [
+                      {
+                        "question": "¿Cuál es el nombre del superhéroe conocido como el 'Hombre de Acero'?",
+                        "options": ["Batman", "Spider-Man", "Superman"],
+                        "correctAnswer": "Superman",
+                        "difficulty": "fácil"
+                      },
+                      {
+                        "question": "¿Quién es el archienemigo de Spider-Man?",
+                        "options": ["El Duende Verde", "El Joker", "Thanos"],
+                        "correctAnswer": "El Duende Verde",
+                        "difficulty": "fácil"
+                      },
+                      {
+                        "question": "¿Cuál es el nombre de la villana que tiene una relación simbiótica con Venom?",
+                        "options": ["Cheetah", "Catwoman", "She-Venom"],
+                        "correctAnswer": "She-Venom",
+                        "difficulty": "fácil"
+                      },
+                      {
+                        "question": "¿Qué superhéroe lleva un escudo hecho de vibranium?",
+                        "options": ["Iron Man", "Thor", "Capitán América"],
+                        "correctAnswer": "Capitán América",
+                        "difficulty": "media"
+                      },
+                      {
+                        "question": "¿Cuál es el nombre real de Batman?",
+                        "options": ["Bruce Banner", "Bruce Wayne", "Bruce Stark"],
+                        "correctAnswer": "Bruce Wayne",
+                        "difficulty": "media"
+                      },
+                      {
+                        "question": "¿Qué supervillano es conocido como el 'Titiritero del Tiempo'?",
+                        "options": ["Doctor Octopus", "Magneto", "Kang el Conquistador"],
+                        "correctAnswer": "Kang el Conquistador",
+                        "difficulty": "media"
+                      },
+                      {
+                        "question": "¿Cuál es el nombre del superhéroe que es conocido como 'El Hombre Murciélago'?",
+                        "options": ["Iron Man", "Spider-Man", "Batman"],
+                        "correctAnswer": "Batman",
+                        "difficulty": "difícil"
+                      },
+                      {
+                        "question": "¿Quién es el enemigo principal de los X-Men?",
+                        "options": ["Red Skull", "Loki", "Magneto"],
+                        "correctAnswer": "Magneto",
+                        "difficulty": "difícil"
+                      },
+                      {
+                        "question": "¿Cuál es el nombre de la superhéroe que puede controlar el clima?",
+                        "options": ["Tormenta", "Fénix", "Mujer Invisible"],
+                        "correctAnswer": "Tormenta",
+                        "difficulty": "difícil"
+                      },
+                      {
+                        "question": "¿Quién es el archienemigo de Flash?",
+                        "options": ["Zoom", "Venom", "Darkseid"],
+                        "correctAnswer": "Zoom",
+                        "difficulty": "difícil"
+                      }
+                    ]
+                  }
+                ]
+              }
+              
+
+            ]
+          }
+          
+      ]
+    }
+]
+}
+
+
+
+
+  
