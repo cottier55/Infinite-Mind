@@ -70,7 +70,7 @@
       {
         "categories": [
           {
-            "name": "Astronomía Creativa",
+            "name": "Astronomía",
             "image": "category_astronomia_creativa.jpg",
             "questions": [
               {
@@ -139,7 +139,7 @@
         {
             "categories": [
               {
-                "name": "Astrología Creativa",
+                "name": "Astrología",
                 "image": "category_astrologia_creativa.jpg",
                 "questions": [
                   {
@@ -208,7 +208,7 @@
               {
                 "categories": [
                   {
-                    "name": "Superhéroes y Villanos Creativos",
+                    "name": "Superhéroes y Villanos",
                     "image": "category_superheroes.jpg",
                     "questions": [
                       {
@@ -272,7 +272,1499 @@
                         "difficulty": "difícil"
                       }
                     ]
+                  },
+
+                  {
+                    "categories": [
+                      {
+                        "name": "Música",
+                        "image": "category_musica.jpg",
+                        "questions": [
+                          {
+                            "question": "¿Quién es conocido como el 'Rey del Pop'?",
+                            "options": ["Elvis Presley", "Michael Jackson", "Prince"],
+                            "correctAnswer": "Michael Jackson",
+                            "difficulty": "fácil"
+                          },
+                          {
+                            "question": "¿Cuál de estas bandas es famosa por su álbum 'The Dark Side of the Moon'?",
+                            "options": ["Led Zeppelin", "Pink Floyd", "The Beatles"],
+                            "correctAnswer": "Pink Floyd",
+                            "difficulty": "fácil"
+                          },
+                          {
+                            "question": "¿Cuál de estos géneros musicales se originó en Jamaica?",
+                            "options": ["Salsa", "Reggae", "Flamenco"],
+                            "correctAnswer": "Reggae",
+                            "difficulty": "fácil"
+                          },
+                          {
+                            "question": "¿Qué artista interpretó la canción 'Bohemian Rhapsody'?",
+                            "options": ["The Rolling Stones", "Queen", "The Beatles"],
+                            "correctAnswer": "Queen",
+                            "difficulty": "media"
+                          },
+                          {
+                            "question": "¿Cuál de estos instrumentos es un instrumento de viento metal?",
+                            "options": ["Violín", "Saxofón", "Piano"],
+                            "correctAnswer": "Saxofón",
+                            "difficulty": "media"
+                          },
+                          {
+                            "question": "¿Cuál de estas canciones de los Beatles comienza con las palabras 'She loves you'?",
+                            "options": ["Hey Jude", "Yellow Submarine", "She Loves You"],
+                            "correctAnswer": "She Loves You",
+                            "difficulty": "media"
+                          },
+                          {
+                            "question": "¿Cuál de estos compositores es conocido por sus sinfonías 'Clásicas'?",
+                            "options": ["Mozart", "Beethoven", "Bach"],
+                            "correctAnswer": "Haydn",
+                            "difficulty": "difícil"
+                          },
+                          {
+                            "question": "¿Qué instrumento musical se toca utilizando una lengua vibrante?",
+                            "options": ["Piano", "Violín", "Didgeridoo"],
+                            "correctAnswer": "Didgeridoo",
+                            "difficulty": "difícil"
+                          },
+                          {
+                            "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+                            "options": ["Abbey Road", "Thriller", "Dark Side of the Moon"],
+                            "correctAnswer": "Thriller",
+                            "difficulty": "difícil"
+                          },
+                          {
+                            "question": "¿Quién es conocido como 'El Maestro del Blues'?",
+                            "options": ["Muddy Waters", "Eric Clapton", "B.B. King"],
+                            "correctAnswer": "B.B. King",
+                            "difficulty": "difícil"
+                          }
+                        ]
+                      },
+                      {
+                        "categories": [
+                          {
+                            "name": "Baile Creativo",
+                            "image": "category_baile.jpg",
+                            "questions": [
+                              {
+                                "question": "¿Qué estilo de baile se caracteriza por movimientos sensuales y pasos de pareja?",
+                                "options": ["Ballet", "Salsa", "Hip-hop"],
+                                "correctAnswer": "Salsa",
+                                "difficulty": "fácil"
+                              },
+                              {
+                                "question": "¿Cuál de estos bailes es originario de Brasil y se asocia con el carnaval?",
+                                "options": ["Flamenco", "Samba", "Tango"],
+                                "correctAnswer": "Samba",
+                                "difficulty": "fácil"
+                              },
+                              {
+                                "question": "¿Cuál de los siguientes bailes es conocido por sus movimientos acrobáticos y giros?",
+                                "options": ["Ballet", "Breakdance", "Tango"],
+                                "correctAnswer": "Breakdance",
+                                "difficulty": "fácil"
+                              },
+                              {
+                                "question": "¿En qué país se originó el baile conocido como el tango?",
+                                "options": ["Argentina", "España", "México"],
+                                "correctAnswer": "Argentina",
+                                "difficulty": "media"
+                              },
+                              {
+                                "question": "¿Cuál de los siguientes bailes es una danza tradicional irlandesa caracterizada por golpes de pies y movimientos rítmicos?",
+                                "options": ["Salsa", "Flamenco", "Irish Step Dance"],
+                                "correctAnswer": "Irish Step Dance",
+                                "difficulty": "media"
+                              },
+                              {
+                                "question": "¿Qué estilo de baile es conocido por su elegancia y movimientos suaves?",
+                                "options": ["Salsa", "Hip-hop", "Ballet"],
+                                "correctAnswer": "Ballet",
+                                "difficulty": "media"
+                              },
+                              {
+                                "question": "¿Cuál de los siguientes bailes se originó en la comunidad afroamericana en Nueva York durante la década de 1970?",
+                                "options": ["Tango", "Salsa", "Hip-hop"],
+                                "correctAnswer": "Hip-hop",
+                                "difficulty": "difícil"
+                              },
+                              {
+                                "question": "¿Qué baile es conocido por su origen en España y sus movimientos apasionados?",
+                                "options": ["Salsa", "Tango", "Flamenco"],
+                                "correctAnswer": "Flamenco",
+                                "difficulty": "difícil"
+                              },
+                              {
+                                "question": "¿Cuál de los siguientes estilos de baile es parte del programa de los Juegos Olímpicos?",
+                                "options": ["Salsa", "Ballet", "Ritmica"],
+                                "correctAnswer": "Ritmica",
+                                "difficulty": "difícil"
+                              },
+                              {
+                                "question": "¿Qué estilo de baile combina movimientos de ballet, jazz y danza contemporánea?",
+                                "options": ["Hip-hop", "Salsa", "Danza contemporánea"],
+                                "correctAnswer": "Danza contemporánea",
+                                "difficulty": "difícil"
+                              }
+                            ]
+                          },
+                          {
+                            "categories": [
+                              {
+                                "name": "Mitologías y Leyendas",
+                                "image": "category_mitologias.jpg",
+                                "questions": [
+                                  {
+                                    "question": "¿Cuál es el nombre del héroe de la mitología griega que mató al Minotauro?",
+                                    "options": ["Hércules", "Perseo", "Teseo"],
+                                    "correctAnswer": "Teseo",
+                                    "difficulty": "fácil"
+                                  },
+                                  {
+                                    "question": "¿En qué mitología nórdica se encuentra el martillo Mjölnir, utilizado por el dios Thor?",
+                                    "options": ["Egipcia", "Griega", "Nórdica"],
+                                    "correctAnswer": "Nórdica",
+                                    "difficulty": "fácil"
+                                  },
+                                  {
+                                    "question": "¿Cuál es la criatura mítica que es mitad mujer y mitad ave?",
+                                    "options": ["Centauro", "Sirena", "Harpía"],
+                                    "correctAnswer": "Harpía",
+                                    "difficulty": "fácil"
+                                  },
+                                  {
+                                    "question": "¿Cuál es el nombre del rey que convirtió todo lo que tocaba en oro en la mitología griega?",
+                                    "options": ["Apolo", "Dionisio", "Midas"],
+                                    "correctAnswer": "Midas",
+                                    "difficulty": "media"
+                                  },
+                                  {
+                                    "question": "¿Cuál es la serpiente gigante que rodea el mundo en la mitología nórdica?",
+                                    "options": ["Yggdrasil", "Jörmungandr", "Fenrir"],
+                                    "correctAnswer": "Jörmungandr",
+                                    "difficulty": "media"
+                                  },
+                                  {
+                                    "question": "¿Qué mitología presenta al dios del sol Ra como una deidad importante?",
+                                    "options": ["Egipcia", "Hindú", "China"],
+                                    "correctAnswer": "Egipcia",
+                                    "difficulty": "media"
+                                  },
+                                  {
+                                    "question": "¿Cuál es el nombre de la espada legendaria del Rey Arturo en las leyendas medievales?",
+                                    "options": ["Excalibur", "Durandal", "Caliburn"],
+                                    "correctAnswer": "Excalibur",
+                                    "difficulty": "difícil"
+                                  },
+                                  {
+                                    "question": "¿En qué mitología se encuentra el dios Anubis, asociado con la muerte y el más allá?",
+                                    "options": ["Griega", "Egipcia", "Nórdica"],
+                                    "correctAnswer": "Egipcia",
+                                    "difficulty": "difícil"
+                                  },
+                                  {
+                                    "question": "¿Cuál es el nombre del lobo gigante que está destinado a desencadenar el Ragnarok en la mitología nórdica?",
+                                    "options": ["Fenrir", "Skoll", "Hati"],
+                                    "correctAnswer": "Fenrir",
+                                    "difficulty": "difícil"
+                                  },
+                                  {
+                                    "question": "¿En qué mitología se encuentra el ave fénix, que renace de sus cenizas?",
+                                    "options": ["Griega", "China", "Hindú"],
+                                    "correctAnswer": "Griega",
+                                    "difficulty": "difícil"
+                                  }
+                                ]
+                              },
+                              {
+                                "categories": [
+                                  {
+                                    "name": "Literatura Creativa",
+                                    "image": "category_literatura.jpg",
+                                    "questions": [
+                                      {
+                                        "question": "¿Quién escribió 'Romeo y Julieta'?",
+                                        "options": ["Charles Dickens", "Jane Austen", "William Shakespeare"],
+                                        "correctAnswer": "William Shakespeare",
+                                        "difficulty": "fácil"
+                                      },
+                                      {
+                                        "question": "¿Cuál es el título de la primera novela de la saga 'Harry Potter'?",
+                                        "options": ["Harry Potter y el Cáliz de Fuego", "Harry Potter y el Prisionero de Azkaban", "Harry Potter y la Piedra Filosofal"],
+                                        "correctAnswer": "Harry Potter y la Piedra Filosofal",
+                                        "difficulty": "fácil"
+                                      },
+                                      {
+                                        "question": "¿Cuál es la obra literaria de George Orwell que presenta un mundo totalitario bajo la vigilancia del Gran Hermano?",
+                                        "options": ["1984", "Un Mundo Feliz", "Fahrenheit 451"],
+                                        "correctAnswer": "1984",
+                                        "difficulty": "fácil"
+                                      },
+                                      {
+                                        "question": "¿Quién es el autor de 'Cien años de soledad'?",
+                                        "options": ["Mario Vargas Llosa", "Jorge Luis Borges", "Gabriel García Márquez"],
+                                        "correctAnswer": "Gabriel García Márquez",
+                                        "difficulty": "media"
+                                      },
+                                      {
+                                        "question": "¿Cuál es el nombre del protagonista en la novela 'Matar un ruiseñor'?",
+                                        "options": ["Huckleberry Finn", "Atticus Finch", "Jay Gatsby"],
+                                        "correctAnswer": "Atticus Finch",
+                                        "difficulty": "media"
+                                      },
+                                      {
+                                        "question": "¿Cuál es la obra de ciencia ficción escrita por H.G. Wells en la que se describe la invasión de la Tierra por extraterrestres?",
+                                        "options": ["La Guerra de los Mundos", "El Día de los Trífidos", "Fahrenheit 451"],
+                                        "correctAnswer": "La Guerra de los Mundos",
+                                        "difficulty": "media"
+                                      },
+                                      {
+                                        "question": "¿Cuál es el nombre del autor de 'El Gran Gatsby'?",
+                                        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+                                        "correctAnswer": "F. Scott Fitzgerald",
+                                        "difficulty": "difícil"
+                                      },
+                                      {
+                                        "question": "¿Cuál es la novela de Leo Tolstoy que narra la historia de la Rusia imperial durante la época de Napoleón?",
+                                        "options": ["Crimen y Castigo", "Guerra y Paz", "Anna Karenina"],
+                                        "correctAnswer": "Guerra y Paz",
+                                        "difficulty": "difícil"
+                                      },
+                                      {
+                                        "question": "¿Cuál es el título de la trilogía épica escrita por J.R.R. Tolkien que incluye 'La Comunidad del Anillo'?",
+                                        "options": ["Las Crónicas de Narnia", "Canción de Hielo y Fuego", "El Señor de los Anillos"],
+                                        "correctAnswer": "El Señor de los Anillos",
+                                        "difficulty": "difícil"
+                                      },
+                                      {
+                                        "question": "¿Quién es el autor de la novela de terror gótico 'Drácula'?",
+                                        "options": ["Mary Shelley", "H.P. Lovecraft", "Bram Stoker"],
+                                        "correctAnswer": "Bram Stoker",
+                                        "difficulty": "difícil"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "categories": [
+                                      {
+                                        "name": "Arte",
+                                        "image": "category_arte.jpg",
+                                        "questions": [
+                                          {
+                                            "question": "¿Quién pintó la famosa obra 'La noche estrellada'?",
+                                            "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci"],
+                                            "correctAnswer": "Vincent van Gogh",
+                                            "difficulty": "fácil"
+                                          },
+                                          {
+                                            "question": "¿Cuál de las siguientes obras es conocida por ser un retrato de la Mona Lisa?",
+                                            "options": ["La última cena", "La creación de Adán", "La Gioconda"],
+                                            "correctAnswer": "La Gioconda",
+                                            "difficulty": "fácil"
+                                          },
+                                          {
+                                            "question": "¿Cuál de estos movimientos artísticos se caracteriza por el uso de líneas y formas geométricas?",
+                                            "options": ["Cubismo", "Impresionismo", "Realismo"],
+                                            "correctAnswer": "Cubismo",
+                                            "difficulty": "fácil"
+                                          },
+                                          {
+                                            "question": "¿Quién es el autor de la escultura 'El Pensador'?",
+                                            "options": ["Auguste Rodin", "Michelangelo Buonarroti", "Pablo Picasso"],
+                                            "correctAnswer": "Auguste Rodin",
+                                            "difficulty": "media"
+                                          },
+                                          {
+                                            "question": "¿Cuál de las siguientes obras pertenece al movimiento impresionista?",
+                                            "options": ["Los Jugadores de Cartas", "Las Señoritas de Avignon", "Impresión, sol naciente"],
+                                            "correctAnswer": "Impresión, sol naciente",
+                                            "difficulty": "media"
+                                          },
+                                          {
+                                            "question": "¿Quién es el autor de la obra literaria 'El retrato de Dorian Gray'?",
+                                            "options": ["Oscar Wilde", "F. Scott Fitzgerald", "Herman Melville"],
+                                            "correctAnswer": "Oscar Wilde",
+                                            "difficulty": "media"
+                                          },
+                                          {
+                                            "question": "¿Cuál de las siguientes obras pertenece al pintor renacentista italiano Leonardo da Vinci?",
+                                            "options": ["La última cena", "Las Meninas", "El grito"],
+                                            "correctAnswer": "La última cena",
+                                            "difficulty": "difícil"
+                                          },
+                                          {
+                                            "question": "¿Cuál de las siguientes esculturas representa al dios griego del amor, Eros?",
+                                            "options": ["El David", "La Venus de Milo", "El Eros dormido"],
+                                            "correctAnswer": "El Eros dormido",
+                                            "difficulty": "difícil"
+                                          },
+                                          {
+                                            "question": "¿Quién es el autor de la obra de teatro 'Hamlet'?",
+                                            "options": ["William Shakespeare", "Anton Chekhov", "Samuel Beckett"],
+                                            "correctAnswer": "William Shakespeare",
+                                            "difficulty": "difícil"
+                                          },
+                                          {
+                                            "question": "¿Cuál de las siguientes pinturas es conocida por sus formas abstractas y colores vivos?",
+                                            "options": ["La noche estrellada", "Guernica", "La persistencia de la memoria"],
+                                            "correctAnswer": "Guernica",
+                                            "difficulty": "difícil"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "categories": [
+                                          {
+                                            "name": "Arquitectura Creativa",
+                                            "image": "category_arquitectura.jpg",
+                                            "questions": [
+                                              {
+                                                "question": "¿Cuál es el famoso edificio parisino construido en hierro que se erige junto al río Sena?",
+                                                "options": ["La Sagrada Familia", "El Coliseo", "La Torre Eiffel"],
+                                                "correctAnswer": "La Torre Eiffel",
+                                                "difficulty": "fácil"
+                                              },
+                                              {
+                                                "question": "¿Cuál de los siguientes edificios es conocido por su cúpula gigante y su arquitectura renacentista?",
+                                                "options": ["La Ópera de Sídney", "El Partenón", "El Vaticano"],
+                                                "correctAnswer": "El Vaticano",
+                                                "difficulty": "fácil"
+                                              },
+                                              {
+                                                "question": "¿Qué famoso arquitecto diseñó la Casa Milà en Barcelona, España?",
+                                                "options": ["Antoni Gaudí", "Frank Lloyd Wright", "Le Corbusier"],
+                                                "correctAnswer": "Antoni Gaudí",
+                                                "difficulty": "fácil"
+                                              },
+                                              {
+                                                "question": "¿Cuál de los siguientes estilos arquitectónicos se caracteriza por sus techos a dos aguas y vigas de madera a la vista?",
+                                                "options": ["Barroco", "Arte gótico", "Arquitectura de estilo en cabañas"],
+                                                "correctAnswer": "Arquitectura de estilo en cabañas",
+                                                "difficulty": "media"
+                                              },
+                                              {
+                                                "question": "¿Cuál es el nombre del arquitecto estadounidense conocido por sus diseños de casas orgánicas, como la Casa de la Cascada?",
+                                                "options": ["Antoni Gaudí", "Frank Lloyd Wright", "Le Corbusier"],
+                                                "correctAnswer": "Frank Lloyd Wright",
+                                                "difficulty": "media"
+                                              },
+                                              {
+                                                "question": "¿Qué edificio es conocido por su estructura geodésica y su apodo 'Biosfera'?",
+                                                "options": ["El Palacio de Buckingham", "La Ópera de Sídney", "El Epcot Center"],
+                                                "correctAnswer": "El Epcot Center",
+                                                "difficulty": "media"
+                                              },
+                                              {
+                                                "question": "¿Cuál es el nombre de la antigua ciudad inca conocida por su arquitectura de piedra enclavada en los Andes peruanos?",
+                                                "options": ["Machu Picchu", "Chichen Itzá", "Taj Mahal"],
+                                                "correctAnswer": "Machu Picchu",
+                                                "difficulty": "difícil"
+                                              },
+                                              {
+                                                "question": "¿Quién es el arquitecto detrás del famoso rascacielos Burj Khalifa en Dubái, el edificio más alto del mundo?",
+                                                "options": ["Frank Gehry", "I. M. Pei", "Adrian Smith"],
+                                                "correctAnswer": "Adrian Smith",
+                                                "difficulty": "difícil"
+                                              },
+                                              {
+                                                "question": "¿Qué famoso arquitecto diseñó la Ópera de Sídney en Australia?",
+                                                "options": ["Frank Lloyd Wright", "Le Corbusier", "Jørn Utzon"],
+                                                "correctAnswer": "Jørn Utzon",
+                                                "difficulty": "difícil"
+                                              },
+                                              {
+                                                "question": "¿Cuál de los siguientes edificios es conocido por su diseño en forma de espiral y su colección de arte renombrada?",
+                                                "options": ["Museo del Louvre", "Museo Guggenheim Bilbao", "Museo Británico"],
+                                                "correctAnswer": "Museo Guggenheim Bilbao",
+                                                "difficulty": "difícil"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "categories": [
+                                              {
+                                                "name": "Videojuegos Creativos",
+                                                "image": "category_videojuegos.jpg",
+                                                "questions": [
+                                                  {
+                                                    "question": "¿Cuál es el famoso fontanero de Nintendo que aparece en juegos como Super Mario Bros.?",
+                                                    "options": ["Luigi", "Yoshi", "Mario"],
+                                                    "correctAnswer": "Mario",
+                                                    "difficulty": "fácil"
+                                                  },
+                                                  {
+                                                    "question": "¿En qué videojuego controlas a un personaje llamado Link y te enfrentas al malvado Ganondorf?",
+                                                    "options": ["The Legend of Zelda", "Final Fantasy", "Mega Man"],
+                                                    "correctAnswer": "The Legend of Zelda",
+                                                    "difficulty": "fácil"
+                                                  },
+                                                  {
+                                                    "question": "¿Cuál es el juego de construcción y supervivencia en un mundo abierto desarrollado por Mojang?",
+                                                    "options": ["Terraria", "Minecraft", "Stardew Valley"],
+                                                    "correctAnswer": "Minecraft",
+                                                    "difficulty": "fácil"
+                                                  },
+                                                  {
+                                                    "question": "¿Cuál es el nombre del protagonista en la serie de juegos 'Metal Gear Solid'?",
+                                                    "options": ["Solid Snake", "Liquid Snake", "Big Boss"],
+                                                    "correctAnswer": "Solid Snake",
+                                                    "difficulty": "media"
+                                                  },
+                                                  {
+                                                    "question": "¿En qué juego de rol se presenta un mundo lleno de dragones, magia y aventuras épicas?",
+                                                    "options": ["The Elder Scrolls V: Skyrim", "Dark Souls", "Bloodborne"],
+                                                    "correctAnswer": "The Elder Scrolls V: Skyrim",
+                                                    "difficulty": "media"
+                                                  },
+                                                  {
+                                                    "question": "¿Cuál es el nombre del científico loco que protagoniza la serie de juegos 'Half-Life'?",
+                                                    "options": ["Dr. Kleiner", "Dr. Breen", "Gordon Freeman"],
+                                                    "correctAnswer": "Gordon Freeman",
+                                                    "difficulty": "media"
+                                                  },
+                                                  {
+                                                    "question": "¿En qué videojuego controlas a un equipo de héroes llamados 'Overwatch' en batallas en línea?",
+                                                    "options": ["Fortnite", "Counter-Strike: Global Offensive", "Overwatch"],
+                                                    "correctAnswer": "Overwatch",
+                                                    "difficulty": "difícil"
+                                                  },
+                                                  {
+                                                    "question": "¿Cuál es el juego de estrategia en tiempo real que presenta la lucha entre los tres bandos: Terran, Zerg y Protoss?",
+                                                    "options": ["Warcraft III", "StarCraft", "Age of Empires II"],
+                                                    "correctAnswer": "StarCraft",
+                                                    "difficulty": "difícil"
+                                                  },
+                                                  {
+                                                    "question": "¿En qué videojuego encarnas a Geralt de Rivia, un cazador de monstruos conocido como el 'Lobo Blanco'?",
+                                                    "options": ["Dragon Age: Inquisition", "The Witcher 3: Wild Hunt", "Dark Souls III"],
+                                                    "correctAnswer": "The Witcher 3: Wild Hunt",
+                                                    "difficulty": "difícil"
+                                                  },
+                                                  {
+                                                    "question": "¿Cuál es el nombre del juego de supervivencia en un mundo posapocalíptico donde luchas contra enemigos mutantes llamados 'Clickers'?",
+                                                    "options": ["The Forest", "The Last of Us", "Dying Light"],
+                                                    "correctAnswer": "The Last of Us",
+                                                    "difficulty": "difícil"
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "categories": [
+                                                  {
+                                                    "name": "Idiomas Creativos",
+                                                    "image": "category_idiomas.jpg",
+                                                    "questions": [
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Japón?",
+                                                        "options": ["Mandarín", "Japonés", "Coreano"],
+                                                        "correctAnswer": "Japonés",
+                                                        "difficulty": "fácil"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál de los siguientes idiomas se habla en Brasil?",
+                                                        "options": ["Español", "Portugués", "Italiano"],
+                                                        "correctAnswer": "Portugués",
+                                                        "difficulty": "fácil"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma más hablado en el mundo?",
+                                                        "options": ["Inglés", "Español", "Chino Mandarín"],
+                                                        "correctAnswer": "Chino Mandarín",
+                                                        "difficulty": "fácil"
+                                                      },
+                                                      {
+                                                        "question": "¿Qué idioma se habla principalmente en Suiza?",
+                                                        "options": ["Alemán", "Francés", "Italiano"],
+                                                        "correctAnswer": "Alemán",
+                                                        "difficulty": "media"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Australia?",
+                                                        "options": ["Inglés", "Aborigen", "Francés"],
+                                                        "correctAnswer": "Inglés",
+                                                        "difficulty": "media"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Israel?",
+                                                        "options": ["Hebreo", "Árabe", "Inglés"],
+                                                        "correctAnswer": "Hebreo",
+                                                        "difficulty": "media"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Sudáfrica?",
+                                                        "options": ["Afrikáans", "Inglés", "Zulú"],
+                                                        "correctAnswer": "Afrikáans",
+                                                        "difficulty": "difícil"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Finlandia?",
+                                                        "options": ["Sueco", "Finlandés", "Ruso"],
+                                                        "correctAnswer": "Finlandés",
+                                                        "difficulty": "difícil"
+                                                      },
+                                                      {
+                                                        "question": "¿Qué idioma es conocido por su compleja estructura gramatical, con casos y declinaciones?",
+                                                        "options": ["Latín", "Griego Antiguo", "Sánscrito"],
+                                                        "correctAnswer": "Latín",
+                                                        "difficulty": "difícil"
+                                                      },
+                                                      {
+                                                        "question": "¿Cuál es el idioma oficial de Luxemburgo?",
+                                                        "options": ["Francés", "Alemán", "Luxemburgués"],
+                                                        "correctAnswer": "Luxemburgués",
+                                                        "difficulty": "difícil"
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "categories": [
+                                                      {
+                                                        "name": "Dinosaurios Creativos",
+                                                        "image": "category_dinosaurios.jpg",
+                                                        "questions": [
+                                                          {
+                                                            "question": "¿Cuál fue uno de los dinosaurios carnívoros más grandes que jamás existió?",
+                                                            "options": ["Velociraptor", "Tyrannosaurus Rex", "Stegosaurus"],
+                                                            "correctAnswer": "Tyrannosaurus Rex",
+                                                            "difficulty": "fácil"
+                                                          },
+                                                          {
+                                                            "question": "¿Qué tipo de dinosaurio era conocido por tener una cresta ósea en la cabeza y un pico parecido al de un loro?",
+                                                            "options": ["Triceratops", "Brachiosaurus", "Pterodáctilo"],
+                                                            "correctAnswer": "Triceratops",
+                                                            "difficulty": "fácil"
+                                                          },
+                                                          {
+                                                            "question": "¿Cuál de estos dinosaurios era un herbívoro con un cuello largo y una cola larga?",
+                                                            "options": ["Velociraptor", "Brachiosaurus", "Allosaurus"],
+                                                            "correctAnswer": "Brachiosaurus",
+                                                            "difficulty": "fácil"
+                                                          },
+                                                          {
+                                                            "question": "¿Cuál de los siguientes dinosaurios era un depredador con plumas que se cree que tenía características similares a las aves modernas?",
+                                                            "options": ["Stegosaurus", "Archaeopteryx", "Ankylosaurus"],
+                                                            "correctAnswer": "Archaeopteryx",
+                                                            "difficulty": "media"
+                                                          },
+                                                          {
+                                                            "question": "¿Qué dinosaurio es conocido por su gran cresta ósea en la parte superior de la cabeza y su apariencia similar a un casco?",
+                                                            "options": ["Pachycephalosaurus", "Dilophosaurus", "Spinosaurus"],
+                                                            "correctAnswer": "Pachycephalosaurus",
+                                                            "difficulty": "media"
+                                                          },
+                                                          {
+                                                            "question": "¿Cuál de los siguientes dinosaurios era un depredador gigante con espinas en su espalda y una vela ósea?",
+                                                            "options": ["Allosaurus", "Stegosaurus", "Dimetrodon"],
+                                                            "correctAnswer": "Dimetrodon",
+                                                            "difficulty": "media"
+                                                          },
+                                                          {
+                                                            "question": "¿Cuál de estos dinosaurios tenía un cuello largo y se cree que se alimentaba de plantas acuáticas?",
+                                                            "options": ["Spinosaurus", "Brachiosaurus", "Velociraptor"],
+                                                            "correctAnswer": "Brachiosaurus",
+                                                            "difficulty": "difícil"
+                                                          },
+                                                          {
+                                                            "question": "¿Qué dinosaurio terópodo tenía tres garras afiladas en cada pata y se cree que era un cazador ágil?",
+                                                            "options": ["Allosaurus", "Deinonychus", "Tyrannosaurus Rex"],
+                                                            "correctAnswer": "Deinonychus",
+                                                            "difficulty": "difícil"
+                                                          },
+                                                          {
+                                                            "question": "¿Cuál de los siguientes dinosaurios era un dinosaurio saurópodo con un largo cuello y cola?",
+                                                            "options": ["Velociraptor", "Brachiosaurus", "Triceratops"],
+                                                            "correctAnswer": "Brachiosaurus",
+                                                            "difficulty": "difícil"
+                                                          },
+                                                          {
+                                                            "question": "¿Qué dinosaurio carnívoro era conocido por sus largos dientes aserrados y su apariencia aterradora?",
+                                                            "options": ["Allosaurus", "Spinosaurus", "Stegosaurus"],
+                                                            "correctAnswer": "Spinosaurus",
+                                                            "difficulty": "difícil"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "categories": [
+                                                          {
+                                                            "name": "Moda y Estilo Creativos",
+                                                            "image": "category_moda.jpg",
+                                                            "questions": [
+                                                              {
+                                                                "question": "¿Qué famosa diseñadora de moda francesa es conocida por su logotipo con las iniciales 'CC'?",
+                                                                "options": ["Coco Chanel", "Donatella Versace", "Giorgio Armani"],
+                                                                "correctAnswer": "Coco Chanel",
+                                                                "difficulty": "fácil"
+                                                              },
+                                                              {
+                                                                "question": "¿Qué prenda de vestir es famosa por su tejido a rayas y su diseño náutico?",
+                                                                "options": ["Sweater", "Camisa de vestir", "Sarong"],
+                                                                "correctAnswer": "Sweater",
+                                                                "difficulty": "fácil"
+                                                              },
+                                                              {
+                                                                "question": "¿Cuál de las siguientes marcas es conocida por su calzado deportivo y ropa deportiva?",
+                                                                "options": ["Nike", "Gucci", "Louis Vuitton"],
+                                                                "correctAnswer": "Nike",
+                                                                "difficulty": "fácil"
+                                                              },
+                                                              {
+                                                                "question": "¿Qué diseñador de moda italiano es famoso por sus trajes de alta costura?",
+                                                                "options": ["Dolce & Gabbana", "Versace", "Giorgio Armani"],
+                                                                "correctAnswer": "Giorgio Armani",
+                                                                "difficulty": "media"
+                                                              },
+                                                              {
+                                                                "question": "¿Cuál es el nombre de la famosa revista de moda que presenta las últimas tendencias y diseñadores?",
+                                                                "options": ["Time", "Vogue", "National Geographic"],
+                                                                "correctAnswer": "Vogue",
+                                                                "difficulty": "media"
+                                                              },
+                                                              {
+                                                                "question": "¿Qué diseñador italiano es conocido por su estilo extravagante y su uso de estampados audaces?",
+                                                                "options": ["Gucci", "Prada", "Salvatore Ferragamo"],
+                                                                "correctAnswer": "Gucci",
+                                                                "difficulty": "media"
+                                                              },
+                                                              {
+                                                                "question": "¿Qué prenda de vestir es un vestido largo y elegante que se usa en ocasiones formales?",
+                                                                "options": ["Mantón", "Vestido de noche", "Pantalones cortos"],
+                                                                "correctAnswer": "Vestido de noche",
+                                                                "difficulty": "difícil"
+                                                              },
+                                                              {
+                                                                "question": "¿Cuál es el nombre del diseñador de moda británico conocido por su bufanda a cuadros?",
+                                                                "options": ["Alexander McQueen", "Burberry", "Stella McCartney"],
+                                                                "correctAnswer": "Burberry",
+                                                                "difficulty": "difícil"
+                                                              },
+                                                              {
+                                                                "question": "¿Cuál de los siguientes materiales es conocido por su uso en joyería y accesorios, y se forma a partir de la resina fosilizada?",
+                                                                "options": ["Platino", "Ámbar", "Titanio"],
+                                                                "correctAnswer": "Ámbar",
+                                                                "difficulty": "difícil"
+                                                              },
+                                                              {
+                                                                "question": "¿Cuál es el nombre del diseñador italiano conocido por sus bolsos de lujo y accesorios de cuero?",
+                                                                "options": ["Versace", "Prada", "Louis Vuitton"],
+                                                                "correctAnswer": "Prada",
+                                                                "difficulty": "difícil"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "categories": [
+                                                              {
+                                                                "name": "Programación Creativa",
+                                                                "image": "category_programacion.jpg",
+                                                                "questions": [
+                                                                  {
+                                                                    "question": "¿Cuál de los siguientes lenguajes de programación es ampliamente utilizado para el desarrollo web y se utiliza en el lado del cliente?",
+                                                                    "options": ["Java", "Python", "JavaScript"],
+                                                                    "correctAnswer": "JavaScript",
+                                                                    "difficulty": "fácil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Qué significa 'HTML' en el contexto de desarrollo web?",
+                                                                    "options": ["HyperText Markup Language", "High-level Text Modeling Language", "Hyper Transfer Machine Language"],
+                                                                    "correctAnswer": "HyperText Markup Language",
+                                                                    "difficulty": "fácil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Qué tipo de error ocurre en un programa cuando el código no sigue la sintaxis y estructura adecuada del lenguaje?",
+                                                                    "options": ["Error lógico", "Error de sintaxis", "Error de tiempo de ejecución"],
+                                                                    "correctAnswer": "Error de sintaxis",
+                                                                    "difficulty": "fácil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿En qué lenguaje de programación se utiliza comúnmente la biblioteca 'React' para crear interfaces de usuario interactivas?",
+                                                                    "options": ["Java", "Python", "JavaScript"],
+                                                                    "correctAnswer": "JavaScript",
+                                                                    "difficulty": "media"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Cuál de las siguientes estructuras de datos se utiliza para organizar elementos en una secuencia ordenada con acceso rápido a cada elemento?",
+                                                                    "options": ["Pila", "Cola", "Arreglo"],
+                                                                    "correctAnswer": "Arreglo",
+                                                                    "difficulty": "media"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Qué es un 'algoritmo de ordenamiento' en programación?",
+                                                                    "options": ["Un programa que verifica errores de sintaxis", "Un conjunto de instrucciones para organizar datos", "Un lenguaje de programación popular"],
+                                                                    "correctAnswer": "Un conjunto de instrucciones para organizar datos",
+                                                                    "difficulty": "media"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Cuál de las siguientes no es una metodología ágil de desarrollo de software?",
+                                                                    "options": ["Scrum", "Kanban", "Waterfall"],
+                                                                    "correctAnswer": "Waterfall",
+                                                                    "difficulty": "difícil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿En qué lenguaje de programación se utiliza el entorno de desarrollo 'PyCharm'?",
+                                                                    "options": ["Java", "Python", "C++"],
+                                                                    "correctAnswer": "Python",
+                                                                    "difficulty": "difícil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Qué es un 'SQL Injection' en seguridad informática?",
+                                                                    "options": ["Una técnica para eludir firewalls", "Una vulnerabilidad que permite la inyección de código SQL malicioso", "Un tipo de ataque de denegación de servicio"],
+                                                                    "correctAnswer": "Una vulnerabilidad que permite la inyección de código SQL malicioso",
+                                                                    "difficulty": "difícil"
+                                                                  },
+                                                                  {
+                                                                    "question": "¿Cuál de las siguientes estructuras de datos se utiliza para organizar elementos de manera jerárquica en programación?",
+                                                                    "options": ["Lista enlazada", "Árbol", "Pila"],
+                                                                    "correctAnswer": "Árbol",
+                                                                    "difficulty": "difícil"
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "categories": [
+                                                                  {
+                                                                    "name": "Atracciones de Diversión Creativas",
+                                                                    "image": "category_atracciones_diversion.jpg",
+                                                                    "questions": [
+                                                                      {
+                                                                        "question": "¿Cuál de las siguientes atracciones de parque de diversiones es conocida por ser una montaña rusa en forma de dragón?",
+                                                                        "options": ["La Torre del Terror", "El Dragón Rojo", "La Montaña Rusa del Dragón"],
+                                                                        "correctAnswer": "El Dragón Rojo",
+                                                                        "difficulty": "fácil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Cuál es el nombre de la atracción en la que te sientas en una lancha y desciendes por una pendiente empinada en el agua?",
+                                                                        "options": ["La Montaña Rusa del Agua", "La Caída Libre", "La Aventura Acuática"],
+                                                                        "correctAnswer": "La Montaña Rusa del Agua",
+                                                                        "difficulty": "fácil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Qué atracción de parque de diversiones te permite dar vueltas a gran velocidad en tazas giratorias?",
+                                                                        "options": ["El Carrusel", "Las Tazas Locas", "El Remolino Veloz"],
+                                                                        "correctAnswer": "Las Tazas Locas",
+                                                                        "difficulty": "fácil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Cuál de las siguientes atracciones te eleva en el aire y luego te suelta en caída libre?",
+                                                                        "options": ["La Montaña Rusa del Viento", "La Caída Libre", "El Salto al Cielo"],
+                                                                        "correctAnswer": "La Caída Libre",
+                                                                        "difficulty": "media"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Qué atracción de parque de diversiones te permite disparar a objetivos y obtener puntos?",
+                                                                        "options": ["El Carrusel", "La Montaña Rusa del Viento", "El Tiro al Blanco"],
+                                                                        "correctAnswer": "El Tiro al Blanco",
+                                                                        "difficulty": "media"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Cuál es el nombre de la atracción que te eleva a una gran altura y luego te balancea hacia adelante y hacia atrás?",
+                                                                        "options": ["El Péndulo", "El Columpio Gigante", "La Torre del Terror"],
+                                                                        "correctAnswer": "El Péndulo",
+                                                                        "difficulty": "media"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Qué atracción de parque de diversiones es conocida por su montaña rusa invertida?",
+                                                                        "options": ["El Cohete Espacial", "El Vuelo Invertido", "El Ciclón"],
+                                                                        "correctAnswer": "El Vuelo Invertido",
+                                                                        "difficulty": "difícil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Cuál es el nombre de la atracción en la que te sumerges en un río artificial y enfrentas rápidos y cascadas?",
+                                                                        "options": ["El Río de la Aventura", "La Expedición Acuática", "El Descenso Salvaje"],
+                                                                        "correctAnswer": "El Río de la Aventura",
+                                                                        "difficulty": "difícil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Qué atracción de parque de diversiones te lanza a gran velocidad y te hace sentir como si volaras?",
+                                                                        "options": ["El Viaje Espacial", "El Planeador", "El Cohete a la Luna"],
+                                                                        "correctAnswer": "El Planeador",
+                                                                        "difficulty": "difícil"
+                                                                      },
+                                                                      {
+                                                                        "question": "¿Cuál de las siguientes atracciones de parque de diversiones te sumerge en la oscuridad y te enfrenta a efectos sorprendentes?",
+                                                                        "options": ["El Laberinto del Terror", "La Montaña Rusa Oscura", "La Casa de los Sustos"],
+                                                                        "correctAnswer": "La Montaña Rusa Oscura",
+                                                                        "difficulty": "difícil"
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "categories": [
+                                                                      {
+                                                                        "name": "Psicología Creativa",
+                                                                        "image": "category_psicologia.jpg",
+                                                                        "questions": [
+                                                                          {
+                                                                            "question": "¿Cuál es la rama de la psicología que se centra en el estudio de los procesos mentales como la percepción, la memoria y el pensamiento?",
+                                                                            "options": ["Psicología clínica", "Psicología cognitiva", "Psicología del deporte"],
+                                                                            "correctAnswer": "Psicología cognitiva",
+                                                                            "difficulty": "fácil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál de las siguientes emociones es considerada una emoción básica según la teoría de Paul Ekman?",
+                                                                            "options": ["Envidia", "Felicidad", "Sorpresa"],
+                                                                            "correctAnswer": "Felicidad",
+                                                                            "difficulty": "fácil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál es el nombre del trastorno psicológico caracterizado por el miedo extremo a los lugares abiertos o a los espacios públicos?",
+                                                                            "options": ["Trastorno de ansiedad generalizada", "Agorafobia", "Trastorno obsesivo-compulsivo"],
+                                                                            "correctAnswer": "Agorafobia",
+                                                                            "difficulty": "fácil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Qué teoría psicológica sugiere que las personas tienen un deseo innato de alcanzar su máximo potencial y autorealización?",
+                                                                            "options": ["Psicoanálisis", "Teoría del aprendizaje social", "Humanismo"],
+                                                                            "correctAnswer": "Humanismo",
+                                                                            "difficulty": "media"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál de las siguientes etapas del desarrollo según Erik Erikson ocurre en la adolescencia y se centra en la búsqueda de identidad?",
+                                                                            "options": ["Iniciativa vs. Culpa", "Intimidad vs. Aislamiento", "Identidad vs. Difusión de roles"],
+                                                                            "correctAnswer": "Identidad vs. Difusión de roles",
+                                                                            "difficulty": "media"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál de las siguientes terapias psicológicas se enfoca en cambiar patrones de pensamiento y comportamiento disfuncionales?",
+                                                                            "options": ["Terapia cognitiva", "Terapia psicoanalítica", "Terapia de exposición"],
+                                                                            "correctAnswer": "Terapia cognitiva",
+                                                                            "difficulty": "media"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Qué trastorno psicológico se caracteriza por la retirada social, la falta de interés en las actividades y una profunda tristeza?",
+                                                                            "options": ["Trastorno bipolar", "Depresión mayor", "Esquizofrenia"],
+                                                                            "correctAnswer": "Depresión mayor",
+                                                                            "difficulty": "difícil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál es el nombre del proceso por el cual la información almacenada en la memoria a largo plazo se recupera y se trae de vuelta a la memoria consciente?",
+                                                                            "options": ["Codificación", "Consolidación", "Recuperación"],
+                                                                            "correctAnswer": "Recuperación",
+                                                                            "difficulty": "difícil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Qué trastorno psicológico se caracteriza por la presencia de dos o más personalidades distintas dentro de una misma persona?",
+                                                                            "options": ["Trastorno de identidad disociativo", "Trastorno de ansiedad social", "Trastorno límite de la personalidad"],
+                                                                            "correctAnswer": "Trastorno de identidad disociativo",
+                                                                            "difficulty": "difícil"
+                                                                          },
+                                                                          {
+                                                                            "question": "¿Cuál de las siguientes teorías de la personalidad se centra en la importancia de la autoeficacia y el aprendizaje social?",
+                                                                            "options": ["Teoría de los rasgos", "Teoría humanista", "Teoría social-cognitiva"],
+                                                                            "correctAnswer": "Teoría social-cognitiva",
+                                                                            "difficulty": "difícil"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "categories": [
+                                                                          {
+                                                                            "name": "Fotografía Creativa",
+                                                                            "image": "category_fotografia.jpg",
+                                                                            "questions": [
+                                                                              {
+                                                                                "question": "¿Cuál es el término que se utiliza en fotografía para referirse a la cantidad de luz que entra a la cámara durante la exposición?",
+                                                                                "options": ["Apertura", "Obturador", "ISO"],
+                                                                                "correctAnswer": "Apertura",
+                                                                                "difficulty": "fácil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué tipo de lente es ideal para retratos, ya que produce un fondo desenfocado que resalta al sujeto?",
+                                                                                "options": ["Gran angular", "Teleobjetivo", "Prime"],
+                                                                                "correctAnswer": "Prime",
+                                                                                "difficulty": "fácil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué siglas representan la sensibilidad de la película o el sensor en una cámara en fotografía?",
+                                                                                "options": ["LED", "ISO", "RAW"],
+                                                                                "correctAnswer": "ISO",
+                                                                                "difficulty": "fácil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Cuál de los siguientes elementos es esencial para crear una fotografía de larga exposición?",
+                                                                                "options": ["Un trípode", "Un flash", "Un parasol"],
+                                                                                "correctAnswer": "Un trípode",
+                                                                                "difficulty": "media"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué técnica de fotografía implica tomar varias imágenes de la misma escena con diferentes exposiciones y combinarlas posteriormente en postproducción?",
+                                                                                "options": ["Fotografía de larga exposición", "HDR", "Fotografía de larga distancia focal"],
+                                                                                "correctAnswer": "HDR",
+                                                                                "difficulty": "media"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Cuál de los siguientes tipos de fotografía se centra en capturar objetos pequeños, a menudo ampliados para revelar detalles?",
+                                                                                "options": ["Fotografía de paisajes", "Fotografía macro", "Fotografía de retrato"],
+                                                                                "correctAnswer": "Fotografía macro",
+                                                                                "difficulty": "media"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué efecto fotográfico se logra al capturar una escena en movimiento con una velocidad de obturación lenta para crear un aspecto borroso?",
+                                                                                "options": ["Efecto bokeh", "Efecto congelado", "Efecto de arrastre"],
+                                                                                "correctAnswer": "Efecto de arrastre",
+                                                                                "difficulty": "difícil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué tipo de fotografía se especializa en capturar paisajes naturales, a menudo en condiciones extremas o remotas?",
+                                                                                "options": ["Fotografía de moda", "Fotografía de naturaleza", "Fotografía callejera"],
+                                                                                "correctAnswer": "Fotografía de naturaleza",
+                                                                                "difficulty": "difícil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Cuál de las siguientes cámaras es conocida por ser una cámara de formato medio muy utilizada por fotógrafos profesionales?",
+                                                                                "options": ["Cámara réflex digital", "Cámara de película 35 mm", "Cámara de formato medio"],
+                                                                                "correctAnswer": "Cámara de formato medio",
+                                                                                "difficulty": "difícil"
+                                                                              },
+                                                                              {
+                                                                                "question": "¿Qué técnica de fotografía implica capturar una escena desde arriba con una vista en picado?",
+                                                                                "options": ["Fotografía en contrapicado", "Fotografía aérea", "Fotografía panorámica"],
+                                                                                "correctAnswer": "Fotografía en contrapicado",
+                                                                                "difficulty": "difícil"
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "categories": [
+                                                                              {
+                                                                                "name": "Redes Sociales Creativas",
+                                                                                "image": "category_redes_sociales.jpg",
+                                                                                "questions": [
+                                                                                  {
+                                                                                    "question": "¿Cuál de las siguientes redes sociales es conocida por limitar los mensajes a 140 caracteres?",
+                                                                                    "options": ["Facebook", "Instagram", "Twitter"],
+                                                                                    "correctAnswer": "Twitter",
+                                                                                    "difficulty": "fácil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿En qué red social los usuarios pueden 'pinear' imágenes y crear tableros temáticos?",
+                                                                                    "options": ["LinkedIn", "Pinterest", "Snapchat"],
+                                                                                    "correctAnswer": "Pinterest",
+                                                                                    "difficulty": "fácil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Cuál de las siguientes plataformas se utiliza principalmente para compartir fotos y videos de corta duración que desaparecen después de un tiempo?",
+                                                                                    "options": ["YouTube", "TikTok", "LinkedIn"],
+                                                                                    "correctAnswer": "TikTok",
+                                                                                    "difficulty": "fácil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Qué término se utiliza para describir la estrategia de marketing que implica la colaboración con personas influyentes en redes sociales para promocionar productos o servicios?",
+                                                                                    "options": ["Publicidad en línea", "Influencer marketing", "Marketing de afiliados"],
+                                                                                    "correctAnswer": "Influencer marketing",
+                                                                                    "difficulty": "media"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿En qué red social los usuarios pueden crear y unirse a grupos de discusión sobre una amplia variedad de temas?",
+                                                                                    "options": ["Reddit", "WhatsApp", "Tumblr"],
+                                                                                    "correctAnswer": "Reddit",
+                                                                                    "difficulty": "media"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Cuál de las siguientes redes sociales se centra principalmente en la conexión profesional y el networking?",
+                                                                                    "options": ["Instagram", "Facebook", "LinkedIn"],
+                                                                                    "correctAnswer": "LinkedIn",
+                                                                                    "difficulty": "media"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Cuál de las siguientes redes sociales utiliza un formato de 'historias' que desaparecen después de 24 horas?",
+                                                                                    "options": ["Facebook", "Snapchat", "Instagram"],
+                                                                                    "correctAnswer": "Instagram",
+                                                                                    "difficulty": "difícil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Qué plataforma de redes sociales es conocida por su función de 'tuits' de hasta 280 caracteres?",
+                                                                                    "options": ["Twitter", "LinkedIn", "Pinterest"],
+                                                                                    "correctAnswer": "Twitter",
+                                                                                    "difficulty": "difícil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿Cuál es el nombre de la red social que se enfoca en la interacción a través de videos en vivo y transmisiones en directo?",
+                                                                                    "options": ["YouTube", "Periscope", "Twitch"],
+                                                                                    "correctAnswer": "Twitch",
+                                                                                    "difficulty": "difícil"
+                                                                                  },
+                                                                                  {
+                                                                                    "question": "¿En qué plataforma los usuarios pueden enviar mensajes que desaparecen automáticamente después de ser leídos?",
+                                                                                    "options": ["WhatsApp", "Telegram", "Snapchat"],
+                                                                                    "correctAnswer": "Snapchat",
+                                                                                    "difficulty": "difícil"
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              {
+                                                                                "categories": [
+                                                                                  {
+                                                                                    "name": "Animales Creativos",
+                                                                                    "image": "category_animales.jpg",
+                                                                                    "questions": [
+                                                                                      {
+                                                                                        "question": "¿Cuál es el animal más grande que ha existido en la Tierra, incluso más grande que los dinosaurios?",
+                                                                                        "options": ["Elefante", "Tiburón ballena", "Jirafa"],
+                                                                                        "correctAnswer": "Tiburón ballena",
+                                                                                        "difficulty": "fácil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál de las siguientes serpientes es venenosa y se encuentra en América del Norte?",
+                                                                                        "options": ["Anaconda", "Cobra", "Cascabel"],
+                                                                                        "correctAnswer": "Cascabel",
+                                                                                        "difficulty": "fácil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál es el mamífero más rápido en tierra, capaz de alcanzar velocidades de hasta 70 millas por hora?",
+                                                                                        "options": ["Guepardo", "León", "Elefante"],
+                                                                                        "correctAnswer": "Guepardo",
+                                                                                        "difficulty": "fácil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Qué tipo de animal es el axolote, que es conocido por su capacidad para regenerar extremidades?",
+                                                                                        "options": ["Pez", "Anfibio", "Reptil"],
+                                                                                        "correctAnswer": "Anfibio",
+                                                                                        "difficulty": "media"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál de los siguientes animales es conocido por su lento metabolismo y su capacidad para sobrevivir sin comida durante largos períodos?",
+                                                                                        "options": ["Koala", "Perezoso", "Nutria"],
+                                                                                        "correctAnswer": "Perezoso",
+                                                                                        "difficulty": "media"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Qué ave es famosa por su capacidad de imitar sonidos y voces humanas?",
+                                                                                        "options": ["Cuervo", "Loro", "Pingüino"],
+                                                                                        "correctAnswer": "Loro",
+                                                                                        "difficulty": "media"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál de las siguientes serpientes es la más venenosa del mundo?",
+                                                                                        "options": ["Mamba negra", "Cobra real", "Taipán del interior"],
+                                                                                        "correctAnswer": "Taipán del interior",
+                                                                                        "difficulty": "difícil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál es el animal más grande que ha existido en la Tierra, incluso más grande que los dinosaurios?",
+                                                                                        "options": ["Elefante africano", "Ballena azul", "Dinosaurio saurópodo"],
+                                                                                        "correctAnswer": "Ballena azul",
+                                                                                        "difficulty": "difícil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Qué mamífero marino es conocido por su colmillo largo y retorcido y es una especie en peligro de extinción?",
+                                                                                        "options": ["Morsa", "Narval", "Delfín"],
+                                                                                        "correctAnswer": "Narval",
+                                                                                        "difficulty": "difícil"
+                                                                                      },
+                                                                                      {
+                                                                                        "question": "¿Cuál de los siguientes animales es un marsupial que se encuentra solo en Australia?",
+                                                                                        "options": ["Kangaroo", "Wombat", "Platypus"],
+                                                                                        "correctAnswer": "Wombat",
+                                                                                        "difficulty": "difícil"
+                                                                                      }
+                                                                                    ]
+                                                                                  },
+                                                                                  {
+                                                                                    "categories": [
+                                                                                      {
+                                                                                        "name": "Filosofía Creativa",
+                                                                                        "image": "category_filosofia.jpg",
+                                                                                        "questions": [
+                                                                                          {
+                                                                                            "question": "¿Quién es el filósofo griego conocido por ser el maestro de Platón y por su método de pregunta y respuesta?",
+                                                                                            "options": ["Sócrates", "Aristóteles", "Epicuro"],
+                                                                                            "correctAnswer": "Sócrates",
+                                                                                            "difficulty": "fácil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Cuál es la rama de la filosofía que se ocupa de las preguntas sobre la existencia, la realidad y la naturaleza de la mente y el pensamiento?",
+                                                                                            "options": ["Epistemología", "Metafísica", "Ética"],
+                                                                                            "correctAnswer": "Metafísica",
+                                                                                            "difficulty": "fácil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Qué filósofo alemán es conocido por su teoría del 'Übermensch' o 'Superhombre' en su obra 'Así habló Zaratustra'?",
+                                                                                            "options": ["Immanuel Kant", "Friedrich Nietzsche", "Georg Wilhelm Friedrich Hegel"],
+                                                                                            "correctAnswer": "Friedrich Nietzsche",
+                                                                                            "difficulty": "fácil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Cuál es el término filosófico para la creencia de que no podemos conocer la existencia de Dios o la realidad última?",
+                                                                                            "options": ["Ateísmo", "Agnosticismo", "Teísmo"],
+                                                                                            "correctAnswer": "Agnosticismo",
+                                                                                            "difficulty": "media"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Quién es el autor de la obra 'El Contrato Social', que influyó en la filosofía política y en la Revolución Francesa?",
+                                                                                            "options": ["Jean-Jacques Rousseau", "John Locke", "Thomas Hobbes"],
+                                                                                            "correctAnswer": "Jean-Jacques Rousseau",
+                                                                                            "difficulty": "media"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Cuál es la corriente filosófica que defiende la búsqueda del placer y la satisfacción de los deseos como el objetivo principal de la vida?",
+                                                                                            "options": ["Stoicismo", "Hedonismo", "Existencialismo"],
+                                                                                            "correctAnswer": "Hedonismo",
+                                                                                            "difficulty": "media"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Qué filósofo es conocido por su teoría del 'hombre invisible' y su trabajo en la fenomenología?",
+                                                                                            "options": ["Immanuel Kant", "Jean-Paul Sartre", "Edmund Husserl"],
+                                                                                            "correctAnswer": "Edmund Husserl",
+                                                                                            "difficulty": "difícil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Cuál es la corriente filosófica que se centra en la autenticidad, la elección individual y la angustia existencial?",
+                                                                                            "options": ["Stoicismo", "Hedonismo", "Existencialismo"],
+                                                                                            "correctAnswer": "Existencialismo",
+                                                                                            "difficulty": "difícil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Qué filósofo griego es considerado el fundador de la filosofía occidental y escribió sobre la teoría de las Ideas o Formas?",
+                                                                                            "options": ["Sócrates", "Aristóteles", "Platón"],
+                                                                                            "correctAnswer": "Platón",
+                                                                                            "difficulty": "difícil"
+                                                                                          },
+                                                                                          {
+                                                                                            "question": "¿Cuál es el término filosófico para la creencia en la inexistencia de Dios o deidades?",
+                                                                                            "options": ["Teísmo", "Ateísmo", "Agnosticismo"],
+                                                                                            "correctAnswer": "Ateísmo",
+                                                                                            "difficulty": "difícil"
+                                                                                          }
+                                                                                        ]
+                                                                                      },
+                                                                                      {
+                                                                                        "categories": [
+                                                                                          {
+                                                                                            "name": "Marcas Creativas",
+                                                                                            "image": "category_marcas.jpg",
+                                                                                            "questions": [
+                                                                                              {
+                                                                                                "question": "¿Cuál de las siguientes marcas es conocida por su famoso logotipo del 'swoosh'?",
+                                                                                                "options": ["Adidas", "Puma", "Nike"],
+                                                                                                "correctAnswer": "Nike",
+                                                                                                "difficulty": "fácil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Qué marca de automóviles es famosa por su eslogan 'El placer de conducir'?",
+                                                                                                "options": ["Ford", "Toyota", "BMW"],
+                                                                                                "correctAnswer": "BMW",
+                                                                                                "difficulty": "fácil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Cuál de las siguientes marcas es conocida por su línea de productos electrónicos, como el iPhone y el iPad?",
+                                                                                                "options": ["Samsung", "Sony", "Apple"],
+                                                                                                "correctAnswer": "Apple",
+                                                                                                "difficulty": "fácil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Cuál de estas marcas es conocida por su línea de productos de belleza y cosméticos?",
+                                                                                                "options": ["Coca-Cola", "L'Oréal", "Amazon"],
+                                                                                                "correctAnswer": "L'Oréal",
+                                                                                                "difficulty": "media"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Qué marca de bebidas es conocida por su eslogan 'Destapa la felicidad'?",
+                                                                                                "options": ["Pepsi", "Sprite", "Coca-Cola"],
+                                                                                                "correctAnswer": "Coca-Cola",
+                                                                                                "difficulty": "media"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Cuál de las siguientes marcas es famosa por su café y su icónico logotipo de la sirena?",
+                                                                                                "options": ["Dunkin' Donuts", "Starbucks", "McDonald's"],
+                                                                                                "correctAnswer": "Starbucks",
+                                                                                                "difficulty": "media"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Qué marca de ropa es conocida por su logotipo con las letras LV y su estilo de lujo?",
+                                                                                                "options": ["Versace", "Gucci", "Louis Vuitton"],
+                                                                                                "correctAnswer": "Louis Vuitton",
+                                                                                                "difficulty": "difícil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Cuál de las siguientes marcas de tecnología es conocida por su eslogan 'Think Different'?",
+                                                                                                "options": ["Microsoft", "IBM", "Apple"],
+                                                                                                "correctAnswer": "Apple",
+                                                                                                "difficulty": "difícil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Qué marca de zapatos deportivos es famosa por su eslogan 'Just Do It'?",
+                                                                                                "options": ["Adidas", "Puma", "Nike"],
+                                                                                                "correctAnswer": "Nike",
+                                                                                                "difficulty": "difícil"
+                                                                                              },
+                                                                                              {
+                                                                                                "question": "¿Cuál de estas marcas de alimentos es conocida por su logotipo del loro y su salsa picante?",
+                                                                                                "options": ["Tabasco", "Heinz", "Huy Fong Foods"],
+                                                                                                "correctAnswer": "Tabasco",
+                                                                                                "difficulty": "difícil"
+                                                                                              }
+                                                                                            ]
+                                                                                          },
+                                                                                          {
+                                                                                            "categories": [
+                                                                                              {
+                                                                                                "name": "Bebidas Creativas",
+                                                                                                "image": "category_bebidas.jpg",
+                                                                                                "questions": [
+                                                                                                  {
+                                                                                                    "question": "¿Cuál es la bebida alcohólica más consumida en el mundo?",
+                                                                                                    "options": ["Vino", "Cerveza", "Whisky"],
+                                                                                                    "correctAnswer": "Cerveza",
+                                                                                                    "difficulty": "fácil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Qué bebida gaseosa es conocida por su eslogan 'Destapa la felicidad'?",
+                                                                                                    "options": ["Coca-Cola", "Pepsi", "Fanta"],
+                                                                                                    "correctAnswer": "Coca-Cola",
+                                                                                                    "difficulty": "fácil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Cuál es la bebida caliente tradicional de Japón, hecha con té verde en polvo?",
+                                                                                                    "options": ["Café", "Té negro", "Matcha"],
+                                                                                                    "correctAnswer": "Matcha",
+                                                                                                    "difficulty": "fácil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Qué bebida alcohólica se produce mediante la fermentación de la uva?",
+                                                                                                    "options": ["Vodka", "Ron", "Vino"],
+                                                                                                    "correctAnswer": "Vino",
+                                                                                                    "difficulty": "media"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Cuál es el café más caro del mundo, producido a partir de granos que han sido comidos y excretados por civetas?",
+                                                                                                    "options": ["Café colombiano", "Café etíope", "Café de civeta (Kopi Luwak)"],
+                                                                                                    "correctAnswer": "Café de civeta (Kopi Luwak)",
+                                                                                                    "difficulty": "media"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Qué bebida alcohólica es conocida por su origen en Escocia y su proceso de destilación?",
+                                                                                                    "options": ["Tequila", "Ginebra", "Whisky"],
+                                                                                                    "correctAnswer": "Whisky",
+                                                                                                    "difficulty": "media"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Qué bebida no alcohólica es carbonatada y viene en sabores como cola, naranja y lima-limón?",
+                                                                                                    "options": ["Agua mineral", "Soda", "Refresco"],
+                                                                                                    "correctAnswer": "Refresco",
+                                                                                                    "difficulty": "difícil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Cuál de las siguientes bebidas es una mezcla de ron, jugo de limón y menta?",
+                                                                                                    "options": ["Caipirinha", "Mojito", "Margarita"],
+                                                                                                    "correctAnswer": "Mojito",
+                                                                                                    "difficulty": "difícil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Qué bebida típica de México se elabora a partir de la destilación del agave?",
+                                                                                                    "options": ["Tequila", "Pisco", "Mezcal"],
+                                                                                                    "correctAnswer": "Tequila",
+                                                                                                    "difficulty": "difícil"
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "question": "¿Cuál es la bebida tradicional de Rusia, hecha con vodka, jugo de tomate y especias?",
+                                                                                                    "options": ["Margarita", "Bloody Mary", "Pina Colada"],
+                                                                                                    "correctAnswer": "Bloody Mary",
+                                                                                                    "difficulty": "difícil"
+                                                                                                  }
+                                                                                                ]
+                                                                                              },
+                                                                                              {
+                                                                                                "categories": [
+                                                                                                  {
+                                                                                                    "name": "Plantas Creativas",
+                                                                                                    "image": "category_plantas.jpg",
+                                                                                                    "questions": [
+                                                                                                      {
+                                                                                                        "question": "¿Qué planta es conocida por su savia irritante y se utiliza en tratamientos para aliviar quemaduras menores?",
+                                                                                                        "options": ["Aloe vera", "Hiedra venenosa", "Cacto"],
+                                                                                                        "correctAnswer": "Aloe vera",
+                                                                                                        "difficulty": "fácil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Cuál es la planta cuyas hojas se utilizan para hacer el té de manzanilla?",
+                                                                                                        "options": ["Hierba buena", "Eucalipto", "Manzanilla"],
+                                                                                                        "correctAnswer": "Manzanilla",
+                                                                                                        "difficulty": "fácil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Qué planta, también conocida como 'flor de Pascua', es una planta de interior popular durante las festividades navideñas?",
+                                                                                                        "options": ["Rosa", "Crisantemo", "Poinsettia"],
+                                                                                                        "correctAnswer": "Poinsettia",
+                                                                                                        "difficulty": "fácil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Cuál de las siguientes plantas es conocida por su aroma distintivo y se utiliza en la fabricación de aceites esenciales?",
+                                                                                                        "options": ["Lavanda", "Pino", "Cedro"],
+                                                                                                        "correctAnswer": "Lavanda",
+                                                                                                        "difficulty": "media"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Qué planta carnívora atrapa insectos en trampas pegajosas y es nativa de América del Norte?",
+                                                                                                        "options": ["Orquídea", "Venus atrapamoscas", "Cactus"],
+                                                                                                        "correctAnswer": "Venus atrapamoscas",
+                                                                                                        "difficulty": "media"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Cuál de las siguientes plantas se utiliza en la elaboración de la popular bebida de té negro?",
+                                                                                                        "options": ["Té oolong", "Té verde", "Té Camellia sinensis"],
+                                                                                                        "correctAnswer": "Té Camellia sinensis",
+                                                                                                        "difficulty": "media"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Qué planta es conocida por ser la fuente principal de la fibra utilizada para hacer cuerdas y textiles?",
+                                                                                                        "options": ["Algodón", "Lino", "Sisal"],
+                                                                                                        "correctAnswer": "Algodón",
+                                                                                                        "difficulty": "difícil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Cuál de las siguientes plantas es una suculenta que puede almacenar agua en sus hojas y tallos?",
+                                                                                                        "options": ["Cactus", "Helecho", "Cala"],
+                                                                                                        "correctAnswer": "Cactus",
+                                                                                                        "difficulty": "difícil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Qué planta es famosa por su fruto, que se utiliza en la elaboración del aceite de oliva?",
+                                                                                                        "options": ["Higo", "Olivo", "Ciruela"],
+                                                                                                        "correctAnswer": "Olivo",
+                                                                                                        "difficulty": "difícil"
+                                                                                                      },
+                                                                                                      {
+                                                                                                        "question": "¿Cuál de las siguientes plantas es una enredadera trepadora conocida por su floración espectacular y se utiliza en jardinería ornamental?",
+                                                                                                        "options": ["Glicina", "Tomate", "Calabacín"],
+                                                                                                        "correctAnswer": "Glicina",
+                                                                                                        "difficulty": "difícil"
+                                                                                                      }
+                                                                                                    ]
+                                                                                                  },
+                                                                                                  {
+                                                                                                    "categories": [
+                                                                                                      {
+                                                                                                        "name": "Transportes y Vehículos Creativos",
+                                                                                                        "image": "category_transportes.jpg",
+                                                                                                        "questions": [
+                                                                                                          {
+                                                                                                            "question": "¿Cuál es el medio de transporte más antiguo y simple, compuesto por dos ruedas y una estructura para montar?",
+                                                                                                            "options": ["Automóvil", "Bicicleta", "Barco"],
+                                                                                                            "correctAnswer": "Bicicleta",
+                                                                                                            "difficulty": "fácil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Qué tipo de vehículo es conocido por su capacidad de desplazarse tanto en tierra como en agua?",
+                                                                                                            "options": ["Coche", "Bote anfibio", "Helicóptero"],
+                                                                                                            "correctAnswer": "Bote anfibio",
+                                                                                                            "difficulty": "fácil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Cuál es el vehículo de dos ruedas con motor más popular del mundo?",
+                                                                                                            "options": ["Scooter", "Bicicleta", "Motocicleta"],
+                                                                                                            "correctAnswer": "Motocicleta",
+                                                                                                            "difficulty": "fácil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Qué tipo de transporte se utiliza comúnmente en las ciudades para mover grandes cantidades de personas de un lugar a otro?",
+                                                                                                            "options": ["Tren", "Autobús", "Bicicleta"],
+                                                                                                            "correctAnswer": "Autobús",
+                                                                                                            "difficulty": "media"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Cuál es el vehículo aéreo que se utiliza para el transporte de pasajeros y carga a largas distancias?",
+                                                                                                            "options": ["Helicóptero", "Avión", "Dirigible"],
+                                                                                                            "correctAnswer": "Avión",
+                                                                                                            "difficulty": "media"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Qué vehículo todoterreno es conocido por su capacidad de circular sobre terrenos rocosos y accidentados?",
+                                                                                                            "options": ["Jeep", "Furgoneta", "Scooter"],
+                                                                                                            "correctAnswer": "Jeep",
+                                                                                                            "difficulty": "media"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Cuál es el medio de transporte utilizado en el agua que se impulsa mediante paletas giratorias?",
+                                                                                                            "options": ["Yate", "Velero", "Barco de remo"],
+                                                                                                            "correctAnswer": "Barco de remo",
+                                                                                                            "difficulty": "difícil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Qué vehículo espacial llevó al primer ser humano a la Luna en 1969?",
+                                                                                                            "options": ["Transbordador espacial", "Cohete Saturn V", "Nave espacial Soyuz"],
+                                                                                                            "correctAnswer": "Cohete Saturn V",
+                                                                                                            "difficulty": "difícil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Cuál es el medio de transporte que se utiliza comúnmente para explorar áreas nevadas y glaciares?",
+                                                                                                            "options": ["Trineo tirado por perros", "Carroza de caballos", "Moto acuática"],
+                                                                                                            "correctAnswer": "Trineo tirado por perros",
+                                                                                                            "difficulty": "difícil"
+                                                                                                          },
+                                                                                                          {
+                                                                                                            "question": "¿Qué tipo de vehículo se utiliza para el transporte de mercancías en largas distancias por carretera?",
+                                                                                                            "options": ["Camión", "Scooter", "Motocicleta"],
+                                                                                                            "correctAnswer": "Camión",
+                                                                                                            "difficulty": "difícil"
+                                                                                                          }
+                                                                                                        ]
+                                                                                                      }
+                                                                                                      
+                                                                                                    ]
+                                                                                                  }
+                                                                                                  
+                                                                                                ]
+                                                                                              }
+                                                                                              
+                                                                                            ]
+                                                                                          }
+                                                                                          
+                                                                                        ]
+                                                                                      }
+                                                                                      
+                                                                                    ]
+                                                                                  }
+                                                                                  
+                                                                                ]
+                                                                              }
+                                                                              
+                                                                            ]
+                                                                          }
+                                                                          
+                                                                        ]
+                                                                      }
+                                                                      
+                                                                    ]
+                                                                  }
+                                                                  
+                                                                ]
+                                                              }
+                                                              
+                                                            ]
+                                                          }
+                                                          
+                                                        ]
+                                                      }
+                                                      
+                                                    ]
+                                                  }
+                                                  
+                                                ]
+                                              }
+                                              
+                                            ]
+                                          }
+                                          
+                                        ]
+                                      }
+                                      
+                                    ]
+                                  }
+                                  
+                                ]
+                              }
+
+                          
+                        ]
+                      }
+                      
+                      
+                    ]
                   }
+                  
                 ]
               }
               
@@ -284,6 +1776,9 @@
     }
 ]
 }
+    ]
+  }
+
 
 
 

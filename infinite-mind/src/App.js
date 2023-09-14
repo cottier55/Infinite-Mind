@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Category from './components/Category';
-import Question from './components/Question';
+import Question from './components/Questions';
 import categoriesData from './data/categories.json';
 
 function App() {
@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Trivia Game</h1>
+      <h1>Infinite Mind</h1>
       {!currentCategoryIndex ? (
         // Mostrar categorías al principio
         <div className="categories">
